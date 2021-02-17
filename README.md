@@ -85,7 +85,7 @@ A heavy piece of plywood would seem the easiest.
 
 This will need to take the whole weight of the arm, so it seems to make sense for it not to be directly driven by the motor. 
 
-![rotary platform sketch](https://github.com/danja/robot-arm/blob/main/images/rotary-platform-sketch.jpeg.jpeg)
+![rotary platform sketch](https://github.com/danja/robot-arm/blob/main/images/rotary-platform-sketch.jpeg)
 
 #### 1st Elbow Joint
 
