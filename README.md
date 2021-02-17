@@ -8,6 +8,8 @@ The aim is to build a simple, small, inexpensive robot arm using an Arduino to c
 
 This is a really low-priority project. I've ordered motors etc. but it'll be about a month before they arrive.
 
+More detailed notes will go in [devlog.md](devlog.md).
+
 ![overview sketch](https://github.com/danja/robot-arm/blob/main/images/overview-sketch.jpeg)
 
 ## Motivation
