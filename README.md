@@ -29,7 +29,7 @@ For years I've wanted an plotter, but rather than taking the standard X-Y route 
 To keep costs down I intend using very inexpensive parts:
 
 * Controller : Arduino attached over USB to PC 
-* Stepper motors : 28BYJ-48
+* Stepper motors : 28BYJ-48 [datasheet](https://github.com/danja/robot-arm/blob/main/images/datasheet.pdf)
 * Drivers : ULN2003
 * Power Supply : no sure if this will be necessary, but a 9v power pack (with whatever regulation is needed) will be an easy way of giving the drivers enough current
 
