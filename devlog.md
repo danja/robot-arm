@@ -5,6 +5,8 @@ It's occurred to me that since it's using stepper motors, this thing will need s
 I happen to have an MPU-6050 gyroscope/accelerometer module. So how about attaching that to the end of the arm and adjusting the servos until the module says it's in a vertical position..?
 https://playground.arduino.cc/Main/MPU-6050/ 
 
+https://www.teachmemicro.com/orientation-arduino-mpu6050/
+
 A simpler means might be to use a mercury tilt switch (which I also have) but I don't know if this could offer enough accuracy.
 
 On a related point, it might be useful when using the arm as a plotter, to have the pen suspended on a spring somehow. When the pen touches the paper it will be pushed up relative to the arm. This could be detected by an IR beam interrupt module - I think I have one of those too. 
